@@ -9,6 +9,7 @@ Test Teardown    Fechar Browser
 
 *** Variables ***
 
+
 # Variável Simple
 ${NOME}        ALEJANDRO ROMERO
 

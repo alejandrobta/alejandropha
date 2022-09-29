@@ -12,6 +12,7 @@ Test Teardown    Fechar Browser
 
 
 
+
 *** Variables ***
 
 ${URL}    https://learningprime.com.br/

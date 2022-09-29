@@ -10,6 +10,7 @@ ${SIMPLES}
 ${NOME}    Ale
 
 
+
 *** Test Cases ***
 Contando de 0 a 9
     [Tags]    CONTAR
