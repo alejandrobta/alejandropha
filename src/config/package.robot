@@ -4,7 +4,7 @@ Documentation    O Package.robot será o nosso gerenciador de dependencias do pr
 Library    SeleniumLibrary
 Library    Telnet
 Library    DebugLibrary
-Library    FakerLibrary
+Library    FakerLibrary  
 
 
 Resource    ../keywords/kws_login.robot

@@ -8,7 +8,7 @@ Resource    ../config/package.robot
 Dado que eu esteja na tela de login
     Wait Until Element Is Visible    ${HOME.BTN_ENTRAR}
     Click Element                    ${HOME.BTN_ENTRAR}
-    Wait Until Element Is Visible    ${LOGIN.BTN_CADASTRO}=
+    Wait Until Element Is Visible    ${LOGIN.BTN_CADASTRO}
 
 
   
